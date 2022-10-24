@@ -1,1 +1,8 @@
 /.vs
+app.net.framework4.8/bin/
+app.net.framework4.8/obj/
+mypackage.net.framework4.8/bin/
+mypackage.net.framework4.8/obj/
+mypackage.net6/bin/
+mypackage.net6/obj/
+packages/
