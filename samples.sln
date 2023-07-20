@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "インデックス_範囲処理", "インデックス_範囲処理\インデックス_範囲処理.csproj", "{8208F6C3-9C2A-4BC4-911E-AA87FDC510B0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8208F6C3-9C2A-4BC4-911E-AA87FDC510B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8208F6C3-9C2A-4BC4-911E-AA87FDC510B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8208F6C3-9C2A-4BC4-911E-AA87FDC510B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8208F6C3-9C2A-4BC4-911E-AA87FDC510B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
